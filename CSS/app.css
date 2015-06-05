@@ -1,2 +1,39 @@
+.fullPage {
+    width: 2500px;
+    height: 5000px;
+}
 
-.fullPage{width: 8px; background-color: purple; height: 10px;}
+.header-title{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#fruitea-header{
+    position: absolute;
+    left: 52%;
+}
+
+#title-combining-forces{
+    position: absolute;
+    padding-left:365px;
+    padding-top: 325px;
+}
+
+#orange-drink{
+    float: left;
+    padding-top: 400px;
+}
+
+#blueberry-drink{
+    float: right;
+    padding-top: 400px;
+}
+
+#want-rhett-and-link-to-make{
+    padding-top: 1750px;
+    padding-left: 400px;
+}
+.steps{
+    display: inline-block;
+}
