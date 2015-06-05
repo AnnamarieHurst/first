@@ -1,39 +1,98 @@
 .fullPage {
-    width: 2500px;
-    height: 5000px;
+    width: 1000px;
+    position: relative;
+    margin:0 auto;
 }
 
 .header-title{
     position: absolute;
+    width:1000px;
     left: 0;
     top: 0;
 }
+#big-header, #main-title{
+    display: block;
+    width: 100%;
+}
+
 
 #fruitea-header{
     position: absolute;
-    left: 52%;
+    width: 25%;
+    padding-left: 38%;
 }
 
 #title-combining-forces{
     position: absolute;
-    padding-left:365px;
-    padding-top: 325px;
+    width: 100%;
+    margin-top: 12%;
 }
+.fruitea-chillers{
+    display: block;
+    width: 100%;
+}
+#gray-bottom-border{
+     width: 100%;
+     display: block;
+     position: absolute;
+     margin-top: 65%;
 
+ }
 #orange-drink{
     float: left;
     padding-top: 400px;
+    width: 20%;
+    vertical-align: top;
 }
 
 #blueberry-drink{
     float: right;
     padding-top: 400px;
+    width: 20%;
 }
 
 #want-rhett-and-link-to-make{
-    padding-top: 1750px;
-    padding-left: 400px;
+    width: 40%;
+    top: 0;
+    left: 0;
+
 }
+
 .steps{
     display: inline-block;
+    width: 100%;
+    padding-top: 25px;
+}
+#first{
+    width: 18%;
+}
+
+#then{
+    width:18%;
+}
+#finally{
+    width:18%;
+}
+.bottom-section{
+    display: inline-block;
+    width: 100%;
+    margin-top: 10%;
+}
+#green-tea{
+    width: 33%;
+}
+#chillers{
+    width: 33%;
+}
+#lemonade{
+    width: 33%;
+}
+#title3-sipmeup{
+    width: 100%;
+    margin-bottom: 10%;
+}
+.footer-top{
+    display: block;
+    width:100%;
+    background-color: #FFA319;
 }
