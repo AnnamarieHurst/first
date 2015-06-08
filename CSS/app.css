@@ -39,44 +39,46 @@
 
  }
 #orange-drink{
+    display: inline-block;
     float: left;
-    padding-top: 400px;
+    padding-top: 300px;
     width: 20%;
-    vertical-align: top;
 }
 
 #blueberry-drink{
+    display: inline-block;
     float: right;
-    padding-top: 400px;
+    padding-top: 300px;
     width: 20%;
 }
 
 #want-rhett-and-link-to-make{
     width: 40%;
-    top: 0;
-    left: 0;
-
+    margin-top: 95%;
+    margin-left: 8%;
 }
 
 .steps{
     display: inline-block;
-    width: 100%;
-    padding-top: 25px;
+    width: 100%
 }
 #first{
     width: 18%;
+    margin-left: 10%;
 }
 
 #then{
     width:18%;
+    margin-left: 5%;
 }
 #finally{
     width:18%;
+    margin-left: 5%;
 }
 .bottom-section{
     display: inline-block;
     width: 100%;
-    margin-top: 10%;
+    margin-top: 8%;
 }
 #green-tea{
     width: 33%;
@@ -89,10 +91,73 @@
 }
 #title3-sipmeup{
     width: 100%;
-    margin-bottom: 10%;
+    margin-bottom: 3%;
 }
 .footer-top{
     display: block;
     width:100%;
-    background-color: #FFA319;
+    height: 100px;
+    background-color: #FFCC00;
+}
+.footer-bottom{
+    display: block;
+    width: 100%;
+    height: 50px;
+    background-color: #CC9900;
+}
+#system{
+    display: inline-block;
+    font-size: 25px;
+    align-content: left;
+    color: white;
+    width: 300px;
+    margin-left: 10%;
+    padding-top: 10px;
+}
+
+#have-what-it-takes{
+    display: inline-block;
+    font-size:10px;
+    color: black;
+    margin-left: 13%;
+}
+#before-test{
+    display: inline-block;
+    font-size:8px;
+    color: black;
+    margin-left: 25%;
+}
+#second{
+    display: inline-block;
+    font-size:8px;
+    color: black;
+    margin-left: 53%;
+}
+#test-button{
+     display: inline-block;
+     width: 150px;
+     font-size:15px;
+     color: white;
+     border-radius: 5px;
+     border: 3px solid white;
+     height: 20px;
+     margin-left: 12%;
+ }
+#privacy{
+    display: inline-block;
+    text-decoration: underline;
+    font-size: 8px;
+    margin-left: 35%;
+}
+#terms{
+    display: inline-block;
+    text-decoration: underline;
+    font-size: 8px;
+    margin-left: 5%;
+}
+#rules{
+    display: inline-block;
+    text-decoration: underline;
+    font-size: 8px;
+    margin-left: 5%;
 }
